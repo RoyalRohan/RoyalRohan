@@ -28,12 +28,8 @@
 [![Your Stats](https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 
-</div>
-
-## 🐍 Contribution Snake
-<div align="center">
-![Contribution Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg)
-</div>
+## 🐍 Daily Coding Activity
+![Contribution Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg?t=$(date +%s))
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
