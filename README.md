@@ -31,7 +31,9 @@
 </div>
 
 ## 🐍 Contribution Snake
-![Contribution Grid](https://github.com/RoyalRohan/RoyalRohan/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+![Contribution Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg)
+</div>
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
