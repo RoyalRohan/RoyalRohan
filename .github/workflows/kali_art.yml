@@ -1,0 +1,37 @@
+name: Generate Kali Art
+on:
+  schedule:
+    - cron: "0 * * * *"  # Updates hourly
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    container: kalilinux/kali-rolling
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          apt update && apt install -y python3-pip
+          pip install pygal cairosvg
+          
+      - name: Generate Kali Art
+        run: |
+          echo 'import pygal
+          style = pygal.style.DarkStyle(
+              colors=("#557C94", "#FF6F00", "#4D4DFF"),
+              background="transparent"
+          )
+          chart = pygal.Line(style=style, width=800, height=300)
+          chart.title = "Kali Linux Activity"
+          chart.add("Hacking",  [0, 5, 13, 34, 55, 89])
+          chart.add("Research", [5, 15, 27, 38, 40, 50])
+          chart.render_to_file("kali_chart.svg")' > generate.py
+          python3 generate.py
+          mv kali_*.svg output/
+          
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: output
