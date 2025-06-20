@@ -28,12 +28,10 @@
 [![Your Stats](https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 
-</div>
-
-## 🐍 Daily Coding Activity
+## 🐍 Coding Activity
 <div align="center">
   
-![Contribution Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg?t=$(date +%s))
+![Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg?t=$(date +%s))
 
 </div>
 
