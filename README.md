@@ -3,7 +3,7 @@
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7F3BF7&width=435&lines=Machine+Learning+Engineer;Python+Automation+Expert;Kali+Linux+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ## 🔍 About Me
-- 🔭 **Currently Working On**: AI models 
+- 🔭 **Currently Working On**: AI model and bots
 - 🌱 **Learning**: LLMs, MLOps, Ethical Hacking
 - 💼 **Skills**: Python, TensorFlow, Bash Scripting, DevOps
 - ⚡ **Fun Fact**: I automate my home with Python scripts!
@@ -28,8 +28,14 @@
 [![Your Stats](https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&theme=radical&hide_border=true)](https://github.com/RoyalRohan)
 
+</div>
+
 ## 🐍 Daily Coding Activity
+<div align="center">
+  
 ![Contribution Snake](https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/snake.svg?t=$(date +%s))
+
+</div>
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
