@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohan | AI/ML Engineer & Automation Specialist
+# 👋 Hi, I'm Rohan | AI/ML Learner & Automation Specialist
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7F3BF7&width=435&lines=Machine+Learning+Engineer;Python+Automation+Expert;Kali+Linux+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 
