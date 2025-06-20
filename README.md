@@ -3,7 +3,7 @@
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7F3BF7&width=435&lines=Machine+Learning+Engineer;Python+Automation+Expert;Kali+Linux+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ## 🔍 About Me
-- 🔭 **Currently Working On**: AI models for [your project focus]
+- 🔭 **Currently Working On**: AI models 
 - 🌱 **Learning**: LLMs, MLOps, Ethical Hacking
 - 💼 **Skills**: Python, TensorFlow, Bash Scripting, DevOps
 - ⚡ **Fun Fact**: I automate my home with Python scripts!
@@ -36,4 +36,4 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@domain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanxett6@gmail.com)
