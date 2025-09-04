@@ -98,12 +98,9 @@ me = RohanProfile()
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake.svg">
 </div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284113-b22a5da9-2e50-4978-b7f7-b5b452a65b83.gif" width="30"> Featured Projects
 
