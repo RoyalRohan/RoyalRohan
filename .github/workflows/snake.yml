@@ -1,0 +1,53 @@
+## 🐍 3D Contribution Snake & Animations
+
+<!-- 3D Profile Contribution Graph -->
+<div align="center">
+  <h3>📊 3D Contribution Profile</h3>
+  <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+</div>
+
+<!-- Multiple Snake Animations -->
+<div align="center">
+  <h3>🎮 Interactive Snake Animations</h3>
+  
+  <!-- Standard Enhanced Snake -->
+  <details>
+    <summary>🌟 <b>Enhanced Dark Snake</b></summary>
+    <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake">
+  </details>
+
+  <!-- 3D Style Snake -->
+  <details>
+    <summary>🎯 <b>3D Style Snake</b></summary>
+    <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-3d.svg" alt="3D Snake">
+  </details>
+
+  <!-- Matrix/Hacker Snake -->
+  <details>
+    <summary>💚 <b>Matrix Hacker Snake</b></summary>
+    <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/matrix-snake.svg" alt="Matrix Snake">
+  </details>
+
+  <!-- Cyberpunk Neon Snake -->
+  <details>
+    <summary>🌈 <b>Cyberpunk Neon Snake</b></summary>
+    <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/cyberpunk-snake.svg" alt="Cyberpunk Snake">
+  </details>
+
+  <!-- Rainbow Snake -->
+  <details>
+    <summary>🎨 <b>Rainbow Snake</b></summary>
+    <img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-rainbow.svg" alt="Rainbow Snake">
+  </details>
+
+</div>
+
+<!-- Single Display Version (choose your favorite) -->
+<div align="center">
+  <h3>🔥 Featured Snake Animation</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/matrix-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-3d.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/matrix-snake.svg">
+  </picture>
+</div>
