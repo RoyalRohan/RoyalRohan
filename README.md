@@ -19,16 +19,16 @@
 class RohanProfile:
     def __init__(self):
         self.name = "Rohan"
-        self.role = "AI/ML Engineer & Automation Specialist"
+        self.role = "Software Developer (Linux Enthusiast)"
         self.location = "Nepal 🇳🇵"
         self.education = "BCA-IT"
         self.passion = ["Machine Learning", "Cybersecurity", "Automation"]
         
     def current_focus(self):
         return {
-            "learning": ["LLMs", "MLOps", "Advanced AI Models"],
-            "building": ["AI Bots", "Automation Tools", "ML Pipelines"],
-            "exploring": ["Ethical Hacking", "Cloud Architecture"]
+            "learning": [""],
+            "building": ["telegram Bots", "Automation Tools", "Apps"],
+            "exploring": ["Ethical Hacking", "open-source and Linux tools"]
         }
     
     def fun_fact(self):
