@@ -22,7 +22,7 @@ class RohanProfile:
         self.role = "Software Developer (Linux Enthusiast)"
         self.location = "Nepal 🇳🇵"
         self.education = "BCA-IT"
-        self.passion = ["Machine Learning", "Cybersecurity", "Automation"]
+        self.passion = ["Software Development", "Cybersecurity", "Automation"]
         
     def current_focus(self):
         return {
