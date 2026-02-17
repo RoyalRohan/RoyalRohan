@@ -123,18 +123,18 @@ me = RohanProfile()
   
 ```mermaid
 graph TD
-    A[🧠 Large Language Models] --> B[🚀 MLOps & Deployment]
-    B --> C[☁️ Cloud Architecture]
-    C --> D[🔒 Advanced Ethical Hacking]
-    D --> E[🤖 AI Agent Development]
-    E --> F[📊 Real-time Analytics]
+    A[💻 Core Java & OOP] --> B[📱 Android Development]
+    B --> C[🦋 Flutter & Cross-Platform Apps]
+    C --> D[🌐 Backend with Spring Boot]
+    D --> E[☁️ Cloud & Firebase Integration]
+    E --> F[🚀 DevOps & CI/CD]
     
     style A fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#ff6b6b,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#96ceb4,stroke:#fff,stroke-width:2px,color:#000
-    style F fill:#feca57,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#6c5ce7,stroke:#fff,stroke-width:2px,color:#000
+    style C fill:#00b894,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#0984e3,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#fdcb6e,stroke:#fff,stroke-width:2px,color:#000
+    style F fill:#e17055,stroke:#fff,stroke-width:2px,color:#000
 ```
 
 </div>
