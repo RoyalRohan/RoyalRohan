@@ -89,8 +89,8 @@ me = RohanProfile()
 ## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47068d2-4878-4b87-96bb-93c13d0b8b19.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RoyalRohan&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br />
