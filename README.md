@@ -15,11 +15,11 @@
 </a>
 
 <a href="https://www.ghimirerohan.com.np">
-<img src="https://img.shields.io/badge/Portfolio-ghimirerohan.com.np-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rohan-ghimire-b157233b1/">
-<img src="https://img.shields.io/badge/LinkedIn-Rohan_Ghimire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -111,60 +111,164 @@ me = RohanProfile()
 
 </div>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+
+</div>
+
+---
+
+# 🧠 Current Learning Journey
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[💻 Core Programming] --> B[☕ Java & OOP]
+    B --> C[🌐 Spring Boot]
+    C --> D[🗄️ Databases & APIs]
+    D --> E[🐧 Linux & System Administration]
+    E --> F[🔐 Cybersecurity & Ethical Hacking]
+    F --> G[☁️ Cloud & DevOps]
+    G --> H[🚀 Production-Ready Systems]
+
+    style A fill:#00d9ff,stroke:#ffffff,stroke-width:2px,color:#000000
+    style B fill:#6c5ce7,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#0984e3,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#00b894,stroke:#ffffff,stroke-width:2px,color:#000000
+    style E fill:#fdcb6e,stroke:#ffffff,stroke-width:2px,color:#000000
+    style F fill:#e17055,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style G fill:#6c5ce7,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style H fill:#00d9ff,stroke:#ffffff,stroke-width:2px,color:#000000
+```
+
+</div>
+
 ---
 
 # 🚀 Featured Projects
 
 <div align="center">
 
-## ☁️ RoyalRohan Cloud
-
-<img src="https://img.shields.io/badge/SELF--HOSTED-00d9ff?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/PRIVATE_CLOUD-181717?style=for-the-badge&logo=nextcloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-0d1117?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/2%20FEATURED%20PROJECTS-00d9ff?style=for-the-badge&logo=rocket&logoColor=black"/>
 
 <br><br>
 
-**A personal self-hosted cloud and infrastructure environment.**
+</div>
 
-Built around private cloud storage, containerized services, remote access and infrastructure management.
+## ☁️ RoyalRohan Cloud
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SELF--HOSTED-00d9ff?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PRIVATE%20CLOUD-181717?style=for-the-badge&logo=nextcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-0d1117?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+> **A personal self-hosted cloud infrastructure built for private storage, secure remote access, and real-world Linux server administration.**
+
+RoyalRohan Cloud is a self-hosted private cloud environment built around **Nextcloud**, running inside a containerized infrastructure managed with **Docker** and **OpenMediaVault**.
+
+The platform combines private cloud storage with secure remote connectivity, file synchronization, public sharing and server-side infrastructure management.
+
+### ⚙️ Core Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenMediaVault-5C8A8A?style=for-the-badge&logo=openmediavault&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+</div>
+
+### ✨ Highlights
+
+- ☁️ **Private Cloud Storage**
+- 🐳 **Containerized Deployment**
+- 🔐 **Secure HTTPS Remote Access**
+- 🔄 **Remote File Synchronization**
+- 📤 **Public File Sharing**
+- 🗄️ **Database & Cache Infrastructure**
+- 🐧 **Linux Server Administration**
+- 🌐 **Cloudflare Tunnel Connectivity**
+
+<div align="center">
 
 <br>
 
-`OpenMediaVault` • `Nextcloud` • `Docker` • `MariaDB` • `Redis` • `Cloudflare`
-
-<br><br>
-
 <a href="https://www.ghimirerohan.com.np">
-<img src="https://img.shields.io/badge/Explore_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Explore_RoyalRohan_Cloud-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
+---
 
 ## 🔐 Royal FGA Platform
 
-<img src="https://img.shields.io/badge/SECURITY_PLATFORM-00d9ff?style=for-the-badge&logo=shield&logoColor=black"/>
-<img src="https://img.shields.io/badge/WEB_PLATFORM-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/ADMINISTRATION-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/SECURITY%20PLATFORM-00d9ff?style=for-the-badge&logo=shield&logoColor=black"/>
+<img src="https://img.shields.io/badge/WEB%20APPLICATION-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADMIN%20DASHBOARD-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 
-**A security-focused platform built around controlled access, management and distribution workflows.**
+</div>
 
-Designed with a focus on secure platform management, administrative controls and streamlined user workflows.
+> **A modern premium cookie-management platform focused on controlled distribution, instant access workflows, giveaways, and administrative management.**
+
+Royal FGA Platform is designed around efficient management and controlled distribution of premium cookies through a modern web interface.
+
+The platform provides streamlined workflows for **uploading, editing, deleting and managing premium cookies**, together with instant copy-code access, giveaway participation and an administrative dashboard.
+
+### ⚙️ Platform Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+### ✨ Highlights
+
+- 🔐 **Controlled Cookie Distribution**
+- ⚡ **Instant Copy-Code Access**
+- 🎁 **Giveaway Participation**
+- 🛠️ **Administrative Dashboard**
+- ➕ **Cookie Upload Management**
+- ✏️ **Cookie Editing**
+- 🗑️ **Cookie Deletion**
+- 📦 **Premium Cookie Management**
+- 🎯 **Streamlined User Workflows**
+
+<div align="center">
 
 <br>
 
-`Security` • `Web Platform` • `Administration` • `Access Management`
+<a href="https://www.ghimirerohan.com.np">
+<img src="https://img.shields.io/badge/Explore_Royal_FGA_Platform-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+### 🔭 More of my work
 
 <a href="https://www.ghimirerohan.com.np">
-<img src="https://img.shields.io/badge/Explore_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/View_All_Projects_on_Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://github.com/RoyalRohan?tab=repositories">
+<img src="https://img.shields.io/badge/Browse_GitHub_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -175,23 +279,11 @@ Designed with a focus on secure platform management, administrative controls and
 
 <div align="center">
 
-<a href="https://github.com/RoyalRohan">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="900" alt="GitHub Contribution Activity"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/RoyalRohan">
-
-<img src="https://ghchart.rshah.org/00d9ff/RoyalRohan" width="850" alt="GitHub Contribution Calendar"/>
-
-</a>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+width="900"
+alt="Rohan's GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -204,7 +296,7 @@ Designed with a focus on secure platform management, administrative controls and
 <img
 src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-dark.svg"
 width="900"
-alt="GitHub Contribution Snake"
+alt="Rohan's GitHub Contribution Snake"
 />
 
 </div>
@@ -216,15 +308,15 @@ alt="GitHub Contribution Snake"
 <div align="center">
 
 <a href="https://github.com/RoyalRohan?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RoyalRohan?tab=activity">
-<img src="https://img.shields.io/badge/View_Activity-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Activity-00d9ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://github.com/RoyalRohan/commits">
-<img src="https://img.shields.io/badge/Commit_History-0d1117?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Commits-0d1117?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <br><br>
@@ -237,11 +329,11 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# 🌐 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-### Building something interesting?
+### Have an idea? Let's build it.
 
 <br>
 
