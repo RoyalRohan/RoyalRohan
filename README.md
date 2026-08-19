@@ -89,15 +89,18 @@ me = RohanProfile()
 ## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47068d2-4878-4b87-96bb-93c13d0b8b19.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Rohan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Rohan's GitHub Streak" />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284153-54f6c855-3dab-4a11-a5dc-3985ac5b3e09.gif" width="25"> Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
