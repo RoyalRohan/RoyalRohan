@@ -371,7 +371,7 @@ alt="Rohan's GitHub Contribution Snake"
 
 <br>
 
-<i>Build it. Secure it. Automate it. 🚀</i>
+<i>Code with purpose, Build with passion.</i>
 
 <br><br>
 
