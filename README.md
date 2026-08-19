@@ -53,7 +53,7 @@ class RohanProfile:
         ]
 
     def philosophy(self):
-        return "Build it. Secure it. Automate it. 🚀"
+        return "Build it. Secure it. Automate it. 
 
 
 me = RohanProfile()
@@ -186,16 +186,16 @@ The platform combines private cloud storage with secure remote connectivity, fil
 
 </div>
 
-### ✨ Highlights
+###  Highlights
 
-- ☁️ **Private Cloud Storage**
-- 🐳 **Containerized Deployment**
-- 🔐 **Secure HTTPS Remote Access**
-- 🔄 **Remote File Synchronization**
-- 📤 **Public File Sharing**
-- 🗄️ **Database & Cache Infrastructure**
-- 🐧 **Linux Server Administration**
-- 🌐 **Cloudflare Tunnel Connectivity**
+-  **Private Cloud Storage**
+-  **Containerized Deployment**
+-  **Secure HTTPS Remote Access**
+-  **Remote File Synchronization**
+-  **Public File Sharing**
+-  **Database & Cache Infrastructure**
+-  **Linux Server Administration**
+-  **Cloudflare Tunnel Connectivity**
 
 <div align="center">
 
@@ -209,7 +209,7 @@ The platform combines private cloud storage with secure remote connectivity, fil
 
 ---
 
-## 🔐 Royal FGA Platform
+##  Royal FGA Platform
 
 <div align="center">
 
@@ -235,17 +235,17 @@ The platform provides streamlined workflows for **uploading, editing, deleting a
 
 </div>
 
-### ✨ Highlights
+###  Highlights
 
-- 🔐 **Controlled Cookie Distribution**
-- ⚡ **Instant Copy-Code Access**
-- 🎁 **Giveaway Participation**
-- 🛠️ **Administrative Dashboard**
-- ➕ **Cookie Upload Management**
-- ✏️ **Cookie Editing**
-- 🗑️ **Cookie Deletion**
-- 📦 **Premium Cookie Management**
-- 🎯 **Streamlined User Workflows**
+-  **Controlled Cookie Distribution**
+-  **Instant Copy-Code Access**
+-  **Giveaway Participation**
+-  **Administrative Dashboard**
+-  **Cookie Upload Management**
+-  **Cookie Editing**
+-  **Cookie Deletion**
+-  **Premium Cookie Management**
+-  **Streamlined User Workflows**
 
 <div align="center">
 
