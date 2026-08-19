@@ -1,18 +1,28 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Welcome to Rohan's Digital Universe
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> Welcome to Rohan's Digital Universe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=150&section=header&text=Developer&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=170&section=header&text=ROHAN%20GHIMIRE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=💻+Software+Developer;🔐+Cybersecurity+%26+Ethical+Hacking;🐧+Linux+Enthusiast;☁️+Self-Hosting+%26+Infrastructure;⚙️+Automation+%26+Open+Source"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=💻+Software+Developer;🔐+Cybersecurity+%26+Ethical+Hacking;🐧+Linux+Enthusiast;⚙️+Automation+%26+Self-Hosting"/>
+<br><br>
 
-</div>
+<a href="https://github.com/RoyalRohan">
+<img src="https://img.shields.io/github/followers/RoyalRohan?style=for-the-badge&logo=github&label=Followers&color=00d9ff&labelColor=0d1117"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/RoyalRohan?tab=repositories">
+<img src="https://img.shields.io/github/stars/RoyalRohan?style=for-the-badge&logo=github&label=Stars&color=00d9ff&labelColor=0d1117"/>
+</a>
+
+<a href="https://www.ghimirerohan.com.np">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -22,21 +32,24 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class RohanProfile:
     def __init__(self):
         self.name = "Rohan Ghimire"
+        self.username = "RoyalRohan"
         self.role = "Software Developer & Cybersecurity Enthusiast"
         self.location = "Nepal 🇳🇵"
         self.education = "BCA-IT"
+
         self.interests = [
             "Software Development",
             "Cybersecurity",
             "Linux",
             "Automation",
-            "Self-Hosting"
+            "Self-Hosting",
+            "DevOps"
         ]
 
     def current_focus(self):
@@ -44,21 +57,21 @@ class RohanProfile:
             "building": [
                 "Web Applications",
                 "Backend Systems",
-                "Automation Tools",
-                "Developer Projects"
+                "Cloud Infrastructure",
+                "Automation Tools"
             ],
             "learning": [
                 "Java",
                 "Spring Boot",
                 "Cybersecurity",
-                "Linux & System Administration",
+                "Linux Administration",
                 "DevOps"
             ],
             "exploring": [
                 "Ethical Hacking",
                 "Open Source",
-                "Cloud & Self-Hosting",
-                "Infrastructure Security"
+                "Cloud Infrastructure",
+                "System Security"
             ]
         }
 
@@ -91,6 +104,10 @@ me = RohanProfile()
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -108,7 +125,7 @@ me = RohanProfile()
 
 </div>
 
-### ☁️ DevOps, Cloud & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 
 <div align="center">
 
@@ -128,13 +145,23 @@ me = RohanProfile()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47068d2-4878-4b87-96bb-93c13d0b8b19.gif" width="30"> GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Rohan's%20GitHub%20Statistics&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117"
+  alt="Rohan's GitHub Statistics"
+  width="495"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&langs_count=8&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Rohan's Top Languages"/>
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117"
+  alt="Rohan's Most Used Languages"
+  width="495"
+/>
 
 </div>
 
@@ -142,104 +169,67 @@ me = RohanProfile()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Rohan's GitHub Streak"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"
+  alt="Rohan's GitHub Contribution Streak"
+  width="700"
+/>
 
 </div>
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284153-54f6c855-3dab-4a11-a5dc-3985ac5b3e09.gif" width="25"> Activity Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Rohan's GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Rohan's%20Contribution%20Activity"
+  alt="Rohan's GitHub Activity Graph"
+  width="900"
+/>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/RoyalRohan/RoyalRohan/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="900"
+/>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284113-b22a5da9-2e50-4978-b7f7-b5b452a65b83.gif" width="30"> Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-### 🛒 E-Commerce App
+## ☁️ RoyalRohan Cloud
 
-Full-featured e-commerce mobile application focused on real-time inventory, authentication, and secure payment integration.
+**My personal self-hosted cloud infrastructure.**
 
-**Flutter • Firebase • Dart**
+RoyalRohan Cloud is my private cloud environment built around self-hosting, containerization, secure remote access and infrastructure management.
 
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
+### ⚙️ Infrastructure
 
----
+<img src="https://img.shields.io/badge/OpenMediaVault-5C8A8A?style=for-the-badge&logo=openmediavault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
-### 🛡️ Security Scanner
+<br><br>
 
-Automated vulnerability scanning project designed to identify common web application security issues and generate reports.
-
-**Python • Java • Docker**
-
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
----
-
-### ⚙️ Task Manager API
-
-REST API featuring task management, JWT authentication, role-based access control, and API documentation.
-
-**Spring Boot • MySQL • JWT**
-
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
----
-
-### 🤖 Automation Bot
-
-Automation-focused application designed to simplify repetitive tasks through scheduling and notification capabilities.
-
-**Kotlin • Android • Firebase**
-
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
----
-
-### 💬 Chat Application
-
-Real-time communication application with messaging, group conversations, file sharing, and secure communication features.
-
-**Flutter • Firebase • WebSocket**
-
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
----
-
-### 📊 Analytics Dashboard
-
-Analytics dashboard focused on data visualization, real-time updates, and customizable reporting.
-
-**Spring Boot • React • MySQL**
-
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/View_Project-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<a href="https://www.ghimirerohan.com.np">
+<img src="https://img.shields.io/badge/View_on_Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
@@ -248,40 +238,111 @@ Analytics dashboard focused on data visualization, real-time updates, and custom
 
 <div align="center">
 
-<a href="https://www.ghimirerohan.com.np/#projects">
-<img src="https://img.shields.io/badge/Explore_All_Projects-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+## 🔐 Royal FGA Platform
+
+**A security-focused platform built for controlled cookie management and distribution.**
+
+Royal FGA Platform is one of my major platform projects, focused on controlled access, management workflows, distribution features and an administrative interface.
+
+### ⚙️ Platform
+
+<img src="https://img.shields.io/badge/Security-Focused-00d9ff?style=for-the-badge&logo=shield&logoColor=black"/>
+<img src="https://img.shields.io/badge/Web_Platform-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Administration-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<a href="https://www.ghimirerohan.com.np">
+<img src="https://img.shields.io/badge/View_on_Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-<a href="https://github.com/RoyalRohan?tab=repositories">
-<img src="https://img.shields.io/badge/View_GitHub_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.ghimirerohan.com.np">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1e.gif" width="30"> Current Learning Journey
+# 🧠 Current Learning Journey
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[💻 Core Programming] --> B[☕ Java & OOP]
+    A[💻 Programming] --> B[☕ Java & OOP]
     B --> C[🌐 Spring Boot]
     C --> D[🗄️ Databases & APIs]
     D --> E[🐧 Linux & System Administration]
     E --> F[🔐 Cybersecurity]
-    F --> G[☁️ DevOps & Cloud]
+    F --> G[☁️ Cloud & DevOps]
     G --> H[🚀 Production Systems]
+
+    classDef cyan fill:#00d9ff,stroke:#ffffff,stroke-width:2px,color:#000000;
+    classDef dark fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff;
+
+    class A,B,C,D,E,F,G,H dark;
 ```
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284116-31e0172a-aa2c-42d2-a98c-a5a2b9d70543.gif" width="30"> Let's Connect & Collaborate
+# 🏆 GitHub Achievements
 
 <div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=RoyalRohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"
+  alt="Rohan's GitHub Achievements"
+  width="900"
+/>
+
+</div>
+
+---
+
+# 📈 Live GitHub Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RoyalRohan&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<a href="https://github.com/RoyalRohan?tab=repositories">
+<img src="https://img.shields.io/github/repos/RoyalRohan?style=for-the-badge&logo=github&label=Repositories&color=00d9ff&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/RoyalRohan?tab=followers">
+<img src="https://img.shields.io/github/followers/RoyalRohan?style=for-the-badge&logo=github&label=Followers&color=00d9ff&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/RoyalRohan?tab=stars">
+<img src="https://img.shields.io/github/stars/RoyalRohan?style=for-the-badge&logo=github&label=Stars&color=00d9ff&labelColor=0d1117"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### Have an idea? Let's build it.
+
+<br>
+
+<a href="https://github.com/RoyalRohan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/rohan-ghimire-b157233b1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -292,20 +353,14 @@ graph TD
 </a>
 
 <a href="mailto:rohanxett6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RoyalRohan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.ghimirerohan.com.np">
 <img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae1-de32-4237-b99a-1b5e76e52cdf.gif" width="400">
 
@@ -313,52 +368,32 @@ graph TD
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284107-93f6e91f-7539-4b28-9fae-dc911e8ff899.gif" width="25"> GitHub Achievements & Activity
+# 🌐 Find Me Online
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RoyalRohan&color=00d9ff&style=for-the-badge&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/followers/RoyalRohan?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/RoyalRohan?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github"/>
+| Platform | Link |
+|:---:|:---:|
+| 💻 GitHub | [@RoyalRohan](https://github.com/RoyalRohan) |
+| 🌐 Portfolio | [ghimirerohan.com.np](https://www.ghimirerohan.com.np) |
+| 💼 LinkedIn | [Rohan Ghimire](https://www.linkedin.com/in/rohan-ghimire-b157233b1/) |
+| 𝕏 X | [@rohan_ghimire69](https://x.com/rohan_ghimire69) |
+| 📧 Email | [rohanxett6@gmail.com](mailto:rohanxett6@gmail.com) |
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 
 <br>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoyalRohan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00d9ff/RoyalRohan" alt="Rohan's GitHub Contribution Calendar"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
-
-</div>
-
-<div align="center">
 
 <i>"The best way to predict the future is to create it." — Alan Kay</i>
 
 <br><br>
 
-<b>⭐ Explore my repositories and follow my journey!</b>
+<b>⭐ Explore my repositories and follow my journey.</b>
 
 </div>
