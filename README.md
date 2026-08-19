@@ -53,7 +53,7 @@ class RohanProfile:
         ]
 
     def philosophy(self):
-        return "Build it. Secure it. Automate it. 
+        return "Build it. Secure it. Automate it."
 
 
 me = RohanProfile()
