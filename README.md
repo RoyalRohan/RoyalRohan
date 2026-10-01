@@ -275,12 +275,16 @@ The platform provides streamlined workflows for **uploading, editing, deleting a
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="180" alt="RoyalRohan GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalRohan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="RoyalRohan Top Languages" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="RoyalRohan GitHub Streak" />
+
 </div>
 
 ---
