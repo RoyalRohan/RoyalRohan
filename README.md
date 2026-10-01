@@ -275,16 +275,12 @@ The platform provides streamlined workflows for **uploading, editing, deleting a
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalRohan&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="900"
-alt="Rohan's GitHub Contribution Activity"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyalRohan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalRohan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
