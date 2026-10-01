@@ -273,6 +273,7 @@ The platform provides streamlined workflows for **uploading, editing, deleting a
 
 </div>
 
+## 📊 GitHub Stats
 ---
 
 <div align="center">
